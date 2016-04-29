@@ -62,7 +62,7 @@ const test = (steps, cb) => {
 const start = (steps) => {
 
   if(steps.length == 0) {
-    console.log('Done, the server is not responding.')
+    console.log('Done!')
   }
    else {
     test(steps[0], function(success, fail) {
