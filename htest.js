@@ -1,7 +1,7 @@
 /**
 **  http stress-test
 ** by Yarik Genza
-** https://new.vk.com/yarikgenza
+** https://vk.com/yarikgenza
 **/
 
 'use strict'
